@@ -10,3 +10,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging is combining two diffrent data files and combining the data in to one file.
 Rebasing is altering data based on a refrence.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve how well I work as a team member and write more effecient code.
